@@ -60,7 +60,7 @@
     $('.button').on(
         {
             click: function () {
-                $('div.slidee').hide();
+                $('div.Slidee').toggle();
                  console.log('Thanks for clicking', this);
             },
             mouseleave: function () {
