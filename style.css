@@ -1,6 +1,11 @@
 body {
     font-size: 15pt;
 }
+div.Slidee{
+  margin: 6px;
+  color: purple;
+  
+}
 /*
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 
@@ -11,15 +16,16 @@ body {
     box-sizing: border-box;
 }
 
-body
+*/body
 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   /* display: flex;*/
+  /*  justify-content: center;*/
+  /* align-items: center;*/
     height: 100vh;
-    background-color: #f5f6f6;
+    background-color: #f5f6f9;
     font-family: 'Roboto', sans-serif;
 }
+/*
 .container
 {
     width: 600px;
